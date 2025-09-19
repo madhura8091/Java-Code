@@ -33,3 +33,8 @@ public class Test {
         }
     }
 }
+
+/*Output
+    Element 8 is found at index: 1
+    */
+
