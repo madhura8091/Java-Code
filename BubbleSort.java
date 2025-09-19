@@ -21,4 +21,9 @@ class BubbleSort {
             System.out.print(A[i] + "\t");
         }
     }
+
 }
+/*Output
+    Sorted Array:
+2	3	5	7	8	12	
+    */
