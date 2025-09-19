@@ -60,4 +60,9 @@ public class Sample {
         System.out.println("Linked List is :");
         l1.show();
     }
+
 }
+/*Output
+    Linked List is :
+Linked List: 10 20 5 2 null
+    */
